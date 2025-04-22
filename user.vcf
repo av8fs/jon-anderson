@@ -3,14 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Anderson;Jon;;;
 FN: Jon Anderson
-ORG:AV8 Group;
-TITLE:Founder & CEO
-EMAIL;type=INTERNET;type=Work;type=pref:jon.anderson@av8-group.com
-EMAIL;type=INTERNET;type=Executive Assistant (Jane Adams);type=pref:jane.adams@av8-group.com
+ORG:LCA;
+TITLE:Chief Strategy & Transformation Officer
+EMAIL;type=INTERNET;type=Work;type=pref:jon@change-co.uk
+EMAIL;type=INTERNET;type=AI Assistant (Amelia);type=pref:amelia@change-co.uk
 TEL;type=UK;type=VOICE:+447393647131
-TEL;type=US & Canada;type=VOICE:+14502316130
-item2.URL;type=pref:www.av8-group.com
-item2.X-ABLabel:Homepage
-item3.URL;type=pref:https://calendly.com/av8fs/jon-anderson-30
-item3.X-ABLabel:Schedule a virtual meeting
+item2.URL;type=pref:www.change-co.uk
+item2.X-ABLabel:Website
 END:VCARD
