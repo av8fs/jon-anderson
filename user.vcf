@@ -9,6 +9,6 @@ PHOTO;VALUE=URI:https://av8fs.github.io/jt-anderson/NoBackground_Head.png
 EMAIL;type=INTERNET;type=Work;type=pref:jt@lca-co.uk
 EMAIL;type=INTERNET;type=AI Assistant (Amelia);type=pref:amelia@kanati.ai
 TEL;type=UK;type=VOICE:+447393647131
-item2.URL;type=pref:www.jt.lca-co.uk
+item2.URL;type=pref:jt.lca-co.uk
 item2.X-ABLabel:Website
 END:VCARD
